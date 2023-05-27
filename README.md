@@ -1,7 +1,7 @@
 # Mesh-generation-SwiftUI-RealityKit
 Generate AR model through triangular mesh / SwiftUI RealityKit
 # The first part
-![IMG_1224](https://github.com/S-way520/Mesh-generation-SwiftUI-RealityKit/assets/95877651/9dbdb962-29da-41e2-96d3-1190b4f96641)
+![IMG_1233](https://github.com/S-way520/Mesh-generation-SwiftUI-RealityKit/assets/95877651/d94f7ef7-978d-4c32-bf47-2befc11bde00)
 # The second part
 Code file 1
 ```swift
